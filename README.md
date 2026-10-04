@@ -197,9 +197,6 @@ The legacy `Assets/Models/HC_SR04/hc-sr04.glb` also remains in the repository: [
 ## Developer
 
 - **GitHub:** [Nattasith0](https://github.com/Nattasith0)
-- **Name:** TODO — add preferred developer name.
-- **Institution / Course:** TODO — add project affiliation if applicable.
-- **Contact:** TODO — add a public contact method if desired.
 
 ---
 
