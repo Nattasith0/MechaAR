@@ -47,3 +47,7 @@ Assets/Prefabs/Learning/
 Assets/Prefabs/Learning.meta
 Assets/Scripts/Learning/
 Assets/Scripts/Learning.meta
+
+# Legacy test prefab
+Assets/Prefabs/StepperMotor_Test.prefab
+Assets/Prefabs/StepperMotor_Test.prefab.meta
