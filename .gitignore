@@ -1,0 +1,49 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+# IDE
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.tmp
+
+# Unity temporary
+.utmp/
+
+# Builds
+Build/
+Builds/
+*.apk
+*.aab
+
+# Debug / Burst
+*_BurstDebugInformation_DoNotShip/
+MechaAR_BurstDebugInformation_DoNotShip/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Agent / local tooling
+.agent-system/
+
+# Backup files
+*.bak
+*.bak.meta
+
+# Future V2 / unfinished learning feature
+Assets/LearningData/
+Assets/LearningData.meta
+Assets/Prefabs/Learning/
+Assets/Prefabs/Learning.meta
+Assets/Scripts/Learning/
+Assets/Scripts/Learning.meta

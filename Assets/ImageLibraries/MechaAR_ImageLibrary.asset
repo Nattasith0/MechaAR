@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: MechaAR_ImageLibrary
+  m_EditorClassIdentifier: Unity.XR.ARSubsystems::UnityEngine.XR.ARSubsystems.XRReferenceImageLibrary
+  m_GuidLow: 5196151435454189163
+  m_GuidHigh: 16660077752998765458
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5699858608923354093
+      m_GuidHigh: 12343994436520983740
+    m_SerializedTextureGuid:
+      m_GuidLow: 4432904982997647341
+      m_GuidHigh: 12607003561587408568
+    m_Size: {x: 0.15957448, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: StepperMotor
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4770348450071458271
+      m_GuidHigh: 14274712153838236326
+    m_SerializedTextureGuid:
+      m_GuidLow: 3369839502750097106
+      m_GuidHigh: 3890357073972157225
+    m_Size: {x: 0.1556391, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: ArduinoUNO
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4760008774613812033
+      m_GuidHigh: 17431395799991648390
+    m_SerializedTextureGuid:
+      m_GuidLow: 10931490430726579715
+      m_GuidHigh: 5369828171162738587
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: ServoMotorSG90
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5087281636962562863
+      m_GuidHigh: 419148008081955969
+    m_SerializedTextureGuid:
+      m_GuidLow: 14453426347728063598
+      m_GuidHigh: 3279819304746493738
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: HC_SR04
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4926253803614943677
+      m_GuidHigh: 705021582285036945
+    m_SerializedTextureGuid:
+      m_GuidLow: 11219774699127496839
+      m_GuidHigh: 8429044393775869563
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: ESP32
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5528529433803560587
+      m_GuidHigh: 11090701314411656625
+    m_SerializedTextureGuid:
+      m_GuidLow: 6666607654243430319
+      m_GuidHigh: 12186250598858017897
+    m_Size: {x: 0.115650006, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: DHT11
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5306899928062588450
+      m_GuidHigh: 2412254374382146210
+    m_SerializedTextureGuid:
+      m_GuidLow: 2491762093203239767
+      m_GuidHigh: 17451640595477821000
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: L298N
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4999475672942893883
+      m_GuidHigh: 12975376339142293171
+    m_SerializedTextureGuid:
+      m_GuidLow: 820996494459690688
+      m_GuidHigh: 7805405293788827259
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: DCMotor
+    m_Texture: {fileID: 0}
